@@ -12,21 +12,21 @@
 - Smooth Animations - Subtle fade-in effects for command outputs
 
 ## 🚀 Available Commands
-Command         Description
+Command &nbsp; &nbsp; &nbsp;Description
 -----
-$\color{red}{help}$ &nbsp; Display all available commands
+$\color{red}{help}$ &nbsp; &nbsp; &nbsp; Display all available commands
 -----
-$\color{red}{about}$ &nbsp; Learn about me, my role, and skills
+$\color{red}{about}$ &nbsp; &nbsp; &nbsp; Learn about me, my role, and skills
 -----
-$\color{red}{social}$  View my social media and contact links
+$\color{red}{social}$ &nbsp; &nbsp; &nbsp;View my social media and contact links
 -----
-$\color{red}{projects}$ Browse my coding projects
+$\color{red}{projects}$ &nbsp; &nbsp; &nbsp; Browse my coding projects
 -----
-$\color{red}{secret}$  Try to find the hidden password 😉
+$\color{red}{secret}$ &nbsp; &nbsp; &nbsp;Try to find the hidden password 😉
 -----
-$\color{red}{banner}$  Display the ASCII art header
+$\color{red}{banner}$ &nbsp; &nbsp; &nbsp; Display the ASCII art header
 -----
-$\color{red}{clear}$ Clear the terminal screen
+$\color{red}{clear}$ &nbsp; &nbsp; &nbsp; Clear the terminal screen
 -----
 
 ## 🛠️ Technologies Used
