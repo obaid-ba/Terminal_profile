@@ -14,9 +14,9 @@
 ## 🚀 Available Commands
 Command         Description
 -----
-$\color{red}{help}$   Display all available commands
+$\color{red}{help}$ &nbsp; Display all available commands
 -----
-$\color{red}{about}$   Learn about me, my role, and skills
+$\color{red}{about}$ &nbsp; Learn about me, my role, and skills
 -----
 $\color{red}{social}$  View my social media and contact links
 -----
