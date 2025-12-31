@@ -35,7 +35,7 @@ $\color{red}{clear}$ &nbsp; &nbsp; &nbsp; Clear the terminal screen
 - Vanilla JavaScript - Interactive terminal functionality
 
 ## 📧 Contact
-Obaid Allah Ben Ali - b.obaid28@gmail.com
+Obaid Allah Ben Ali - b.obaid28@gmail.com <br>
 Project Link: https://github.com/obaid-ba/Terminal_profile
 
 ⭐ If you found this project interesting, please consider giving it a star on GitHub!
