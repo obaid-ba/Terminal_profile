@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="./obaid.png">
+  <title>Profile | Terminal</title>
+</head>
+<body>
+    <div class="terminal">
+        <div class="terminal-body" id="terminal-output">
+          <pre class="banner">
+          ██████╗ ██████╗  █████╗ ██╗██████╗ ██████╗  █████╗ 
+          ██╔═══██╗██╔══██╗██╔══██╗██║██╔══██╗╚════██╗██╔══██╗
+          ██║   ██║██████╔╝███████║██║██║  ██║ █████╔╝╚█████╔╝
+          ██║   ██║██╔══██╗██╔══██║██║██║  ██║██╔═══╝ ██╔══██╗
+          ╚██████╔╝██████╔╝██║  ██║██║██████╔╝███████╗╚█████╔╝
+          ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═════╝ ╚══════╝ ╚════╝ 
+          </pre>
+          <div class="section-title">
+            Welcome to my interactive web terminal Obaid Allah Ben Ali portfolio!<br
+            Type '<span class="cmd-name">help</span>' to see available commands.<br>
+            Click '<span class="cmd-name">Tab</span>' auto-completion.<br>
+            Press '<span class="cmd-name">Up</span>' and '<span class="cmd-name">Down</span>' to navigate command history.
+          </div>
+          <div class="output-line"></div>
+        </div>
+        <div class="input-line">
+            <span class="input-prompt">Obaid28@portfolio:~$</span>
+            <div class="input-wrapper">
+                <input type="text" id="command-input" autocomplete="off" autofocus />
+                <span class="cursor">█</span>
+            </div>
+        </div>
+    </div>
+  <script src="main.js"></script>
+</body>
+</html>

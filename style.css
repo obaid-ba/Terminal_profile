@@ -1,0 +1,156 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #1e1e1e;
+  color: #5f9ea0;
+  font-family: 'Courier New', monospace;
+  height: 100vh;
+  padding: 20px;
+}
+
+.terminal {
+  width: 100%;
+  height: 100%;
+}
+
+.terminal-body {
+  overflow-y: auto;
+  font-size: 14px;
+  line-height: 1.8;
+  padding-bottom: 20px;
+  max-height: calc(100vh - 100px);
+}
+
+.terminal-body::-webkit-scrollbar {
+  width: 8px;
+}
+
+.terminal-body::-webkit-scrollbar-track {
+  background: #1e1e1e;
+}
+
+.terminal-body::-webkit-scrollbar-thumb {
+  background: #5f9ea0;
+  border-radius: 4px;
+}
+
+.output-line {
+  margin-bottom: 4px;
+  animation: fadeIn 0.2s ease-in;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.prompt {
+  color: #5f9ea0;
+}
+
+.command {
+  color: #98c379;
+}
+
+.command-list {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 8px 20px;
+  margin: 15px 0;
+}
+
+
+.cmd-desc {
+  color: #B89076;
+}
+
+.input-line {
+  display: flex;
+  align-items: center;
+  position: relative;
+  margin-top: 10px;
+}
+
+.input-prompt {
+  color: #5f9ea0;
+  margin-right: 5px;
+  white-space: nowrap;
+}
+
+.input-wrapper {
+  position: relative;
+  flex: 1;
+  display: flex;
+}
+
+#command-input {
+  background: transparent;
+  border: none;
+  color: #98c379;
+  font-family: 'Courier New', monospace;
+  font-size: 14px;
+  outline: none;
+  width: 100%;
+  caret-color: transparent;
+}
+
+.cursor {
+  color: #73ABAD;
+  background-color: #73ABAD;
+  width: 8px;
+  height: 16px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.error {
+  color: #e06c75;
+}
+.cmd-name {
+  color: #73ABAD;
+  text-shadow: 0 0 5px #73ABAD;
+}
+
+.success {
+  color: #98c379;
+}
+
+.info {
+  color: #61afef;
+}
+
+.highlight {
+  color: #c678dd;
+}
+
+a {
+  color: #61afef;
+  text-decoration: none;
+}
+
+a:hover {
+  text-shadow: 0 0 5px #61afef;
+}
+
+.section-title {
+  color: #B89076;
+  margin: 15px 0 10px 0; 
+}
+
+.banner {
+  color: #5f9ea0;
+  margin-bottom: 20px;
+}
