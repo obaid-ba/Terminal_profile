@@ -14,5 +14,23 @@
 ## 🚀 Available Commands
 Command         Description
 -----
-""" <font color="red">help</font> """  Display all available commands
+``` <font color="red">help</font> ```  Display all available commands
 -----
+``` <font color="red">about</font> ```  Learn about me, my role, and skills
+-----
+``` <font color="red">social</font> ```  View my social media and contact links
+-----
+``` <font color="red">projects</font> ``` Browse my coding projects
+-----
+``` <font color="red">secret</font> ```  Try to find the hidden password 😉
+-----
+``` <font color="red">banner</font> ```  Display the ASCII art header
+-----
+``` <font color="red">clear</font> ``` Clear the terminal screen
+-----
+
+## 🛠️ Technologies Used
+- HTML5 - Structure and semantics
+- CSS3 - Styling with custom animations and grid layouts
+- Vanilla JavaScript - Interactive terminal functionality
+
