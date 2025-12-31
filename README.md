@@ -34,4 +34,9 @@ $\color{red}{clear}$ &nbsp; &nbsp; &nbsp; Clear the terminal screen
 - CSS3 - Styling with custom animations and grid layouts
 - Vanilla JavaScript - Interactive terminal functionality
 
-$\color{red}{text}$
+## 📧 Contact
+Obaid Allah Ben Ali - b.obaid28@gmail.com
+Project Link: https://github.com/obaid-ba/Terminal_profile
+
+⭐ If you found this project interesting, please consider giving it a star on GitHub!
+Made with ❤️ and lots of ☕
