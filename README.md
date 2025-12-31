@@ -14,19 +14,19 @@
 ## 🚀 Available Commands
 Command         Description
 -----
-``` $\color{red}{help}$ ```  Display all available commands
+$\color{red}{help}$   Display all available commands
 -----
-``` $\color{red}{about}$ ```  Learn about me, my role, and skills
+$\color{red}{about}$   Learn about me, my role, and skills
 -----
-```$\color{red}{social}$```  View my social media and contact links
+$\color{red}{social}$  View my social media and contact links
 -----
-```$\color{red}{projects}$``` Browse my coding projects
+$\color{red}{projects}$ Browse my coding projects
 -----
-```$\color{red}{secret}$```  Try to find the hidden password 😉
+$\color{red}{secret}$  Try to find the hidden password 😉
 -----
-```$\color{red}{banner}$```  Display the ASCII art header
+$\color{red}{banner}$  Display the ASCII art header
 -----
-```$\color{red}{clear}$``` Clear the terminal screen
+$\color{red}{clear}$ Clear the terminal screen
 -----
 
 ## 🛠️ Technologies Used
