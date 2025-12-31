@@ -34,3 +34,8 @@ Command         Description
 - CSS3 - Styling with custom animations and grid layouts
 - Vanilla JavaScript - Interactive terminal functionality
 
+- This text is red
++ This text is green
+! This text is orange
+# This text is gray
+@@ This text is purple @@
